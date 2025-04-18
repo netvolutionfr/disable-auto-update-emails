@@ -20,7 +20,7 @@ This plugin disables those notification emails for plugins and themes (and optio
 Alternatively, install via WP‑CLI:
 
 ```bash
-wp plugin install https://github.com/your-username/disable-auto-update-emails/archive/refs/tags/v1.0.0.zip --activate
+wp plugin install https://github.com/netvolutionfr/disable-auto-update-emails/archive/refs/tags/v1.0.0.zip --activate
 ```
 
 # Usage
